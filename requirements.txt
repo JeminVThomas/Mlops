@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+mlflow
+pydantic
+evidently
+requests
+pytest
+httpx
